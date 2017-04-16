@@ -1,6 +1,6 @@
 (function($) {
   'use strict'
-  $.fn.equalize = function(options) {
+  $.equalize = function(options) {
     var settings = $.extend({
     }, options);
     var debounce;
@@ -49,7 +49,6 @@
       }
       return results;
     };
-    console.log($('[data-equalize]').length);
     if ($('[data-equalize]').length > 0) {
       debounce = false;
       $(window).on('resize', function() {

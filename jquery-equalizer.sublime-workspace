@@ -1,0 +1,287 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"anima",
+				"animation"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"z",
+				"z-Index"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"po",
+				"position"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 294.0,
+		"last_filter": "icons",
+		"selected_items":
+		[
+			[
+				"icons",
+				"A File Icon: Settings"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 431.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/gabrielburgos/Developer/jquery-equalizer",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/public/assets/css",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/public/assets/js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin/js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin/sass",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/sass"
+	],
+	"file_history":
+	[
+		"/Users/gabrielburgos/Developer/jquery-equalizer/.gitignore",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/js/main.js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin/js/main.js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/public/index.php",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/sass/main.scss",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/public/assets/css/sample.css",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/package.json",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/gulpfile.js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/webpack.config.js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/webpack.mix.js",
+		"/Users/gabrielburgos/Developer/clanstudio/webpack.mix.js",
+		"/Users/gabrielburgos/Developer/ads/resources/assets/sass/app/header.scss",
+		"/Users/gabrielburgos/Developer/ads/resources/assets/sass/_variables.scss",
+		"/Users/gabrielburgos/Developer/ads/resources/assets/js/app.js",
+		"/Users/gabrielburgos/Developer/ads/resources/assets/sass/app.scss",
+		"/Users/gabrielburgos/Developer/propiedades/webpack.mix.js",
+		"/Users/gabrielburgos/Developer/propiedades/resources/assets/js/app.js",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/js/landing/app/animate.js",
+		"/Users/gabrielburgos/Developer/clanstudio/node_modules/animate.css/source/_base.css",
+		"/Users/gabrielburgos/Developer/clanstudio/resources/assets/js/app/menu.js",
+		"/Users/gabrielburgos/Developer/jquery-formulator/.gitignore"
+	],
+	"find":
+	{
+		"height": 48.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"h3",
+			"h1",
+			"</h1>",
+			"sample.",
+			"<article>",
+			"<p>",
+			" data-equalize=\"article-info\"",
+			"<div class=\"info\">",
+			"formulator",
+			"port",
+			"formulator",
+			"30px",
+			"app",
+			"(elem)",
+			"20px",
+			"$(elem).removeClass('animate-in-down')",
+			"both",
+			"infinite",
+			"both",
+			"addClass",
+			"animate-",
+			"display: block;",
+			"menu",
+			"import menu from './app/menu';",
+			"<article class=\"article-service\">",
+			"_height_social",
+			"moves",
+			"contact",
+			"menu",
+			"mix."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "jquery-equalizer.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

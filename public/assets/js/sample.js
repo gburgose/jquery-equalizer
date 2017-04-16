@@ -10363,7 +10363,7 @@ window.$ = window.jQuery = __webpack_require__(0);
 __webpack_require__(4);
 
 $(document).ready(function () {
-	$('body').equalize();
+	$.equalize();
 });
 /* WEBPACK VAR INJECTION */}.call(exports, __webpack_require__(0)))
 
@@ -10381,7 +10381,7 @@ $(document).ready(function () {
 
 	'use strict';
 
-	$.fn.equalize = function (options) {
+	$.equalize = function (options) {
 
 		var settings = $.extend({
 			//callback : function(data, textStatus, jqXHR){}
@@ -10434,8 +10434,6 @@ $(document).ready(function () {
 			}
 			return results;
 		};
-
-		console.log($('[data-equalize]').length);
 
 		if ($('[data-equalize]').length > 0) {
 

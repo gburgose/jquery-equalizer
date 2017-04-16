@@ -2,7 +2,7 @@
 
 	'use strict'
 
-	$.fn.equalize = function( options ) {
+	$.equalize = function( options ) {
 
 		var settings = $.extend({
 			//callback : function(data, textStatus, jqXHR){}
@@ -55,8 +55,6 @@
 			}
 			return results;
 		};
-
-		console.log($('[data-equalize]').length);
 		
 		if ($('[data-equalize]').length > 0) {
 			
