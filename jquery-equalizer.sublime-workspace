@@ -55,6 +55,32 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "resources/plugin/js/main.js",
+			"settings":
+			{
+				"buffer_size": 1849,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1521,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/sample/sass/main.scss",
+			"settings":
+			{
+				"buffer_size": 263,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -100,20 +126,12 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/gabrielburgos/Developer/jquery-equalizer",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/public/assets/css",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/public/assets/js",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin/js",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin/sass",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/js",
-		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/sass"
+		"/Users/gabrielburgos/Developer/jquery-equalizer"
 	],
 	"file_history":
 	[
-		"/Users/gabrielburgos/Developer/jquery-equalizer/.gitignore",
 		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/js/main.js",
+		"/Users/gabrielburgos/Developer/jquery-equalizer/.gitignore",
 		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/plugin/js/main.js",
 		"/Users/gabrielburgos/Developer/jquery-equalizer/public/index.php",
 		"/Users/gabrielburgos/Developer/jquery-equalizer/resources/sample/sass/main.scss",
@@ -197,8 +215,96 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "resources/plugin/js/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1849,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1527,
+								1527
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1521,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								112,
+								112
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/zzz A File Icon zzz/aliases/JSON (NPM).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/sample/sass/main.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
 			]
 		}
 	],

@@ -24,7 +24,7 @@ var strip             = require('gulp-strip-comments');
 
 gulp.task('js:default', function() {
   gulp.src(['./resources/plugin/js/main.js'])
-    .pipe(concat('dist/jquery.equaizer.js'))
+    .pipe(concat('dist/jquery.equalizer.js'))
     .pipe(beautify({indent_size: 2}))
     .pipe(strip())
     .pipe(removeEmptyLines({ removeComments: true }))
@@ -39,7 +39,7 @@ gulp.task('js:default', function() {
 
 gulp.task('js:minify', function() {
   gulp.src(['./resources/plugin/js/main.js'])
-    .pipe(concat('dist/jquery.equaizer.js'))
+    .pipe(concat('dist/jquery.equalizer.js'))
     .pipe(uglify({ preserveComments: true }))
     .pipe(rename({ suffix : '.min' }))
     .pipe(gulp.dest('.'));
